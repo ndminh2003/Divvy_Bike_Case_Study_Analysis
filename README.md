@@ -1,5 +1,5 @@
 # Project objectives
-This is a project where i implement every step of data analysis:
+This is a project where i conduct a case study on Divvy bike as practice and i will be implementing every step of data analysis:
 
 **1.Ask:** using google doc to list requirements, scope of work and generate questions Using SMART methodology
 
