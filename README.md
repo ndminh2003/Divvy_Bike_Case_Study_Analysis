@@ -12,3 +12,5 @@ This is a project where i conduct a case study on Divvy bike as practice and i w
 **5.Share:** Share the result on the readme file of github.
 
 **6.Act:** Recommend actions based on the data collected
+
+Please see the report as well as the scope of work if you want to see more details.
