@@ -14,3 +14,6 @@ This is a project where i conduct a case study on Divvy bike as practice and i w
 **6.Act:** Recommend actions based on the data collected
 
 Please see the report as well as the scope of work if you want to see more details.
+Because i can not upload the power bi file due to file size constraint i will upload an image here:
+![image](https://github.com/user-attachments/assets/6bb35e07-e6d2-40d1-b517-df2fd856b8db)
+
