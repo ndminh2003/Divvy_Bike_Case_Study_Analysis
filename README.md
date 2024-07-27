@@ -16,6 +16,8 @@ This is a project where i conduct a case study on Divvy bike as practice and i w
 Please see the report as well as the scope of work if you want to see more details.
 Because i can not upload the power bi file due to file size constraint i will upload an image here:
 ![image](https://github.com/user-attachments/assets/3b854a8f-eb03-41aa-96f5-d50fd36e17c3)
+![image](https://github.com/user-attachments/assets/039db103-b316-4fd3-be90-f45fc6b2cb33)
+
 Kaggle notebook: https://www.kaggle.com/code/minhnguyendai/divvy-casestudy
 
 
